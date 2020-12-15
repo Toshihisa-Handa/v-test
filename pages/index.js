@@ -9,12 +9,10 @@ export default function Home() {
     <Container>
       <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
-          Hey, I’m Lee Robinson
+          Toshihisa Handa　Website
         </h1>
         <h2 className="text-gray-600 dark:text-gray-400 mb-16">
-          I’m a developer, writer, and creator. I work at ▲Vercel as a Solutions
-          Architect. You’ve found my personal slice of the internet – everything
-          you want to know and more is here.
+          vercelで個人サイト作ってみました。
         </h2>
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
           Most Popular
