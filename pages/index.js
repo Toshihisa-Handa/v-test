@@ -8,13 +8,16 @@ export default function Home() {
   return (
     <Container>
       <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
+        <img src='https://images.unsplash.com/photo-1607956853617-d9d248a8f327?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80' />
         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
           Toshihisa Handa　Website
         </h1>
         <h2 className="text-gray-600 dark:text-gray-400 mb-16">
           vercelで個人サイトのサンプルをデプロイしてみました
-          参考元：https://github.com/leerob/leerob.io?fbclid=IwAR0aKR4X9XUMJzyc0pApZNhSQ63b2LvjDJQ34NFsALT8ZWaguz1fkcbJAh4
+          練習よう。
         </h2>
+        <h2 class="text-4xl text-green-700 text-center font-semibold">参考元：https://github.com/leerob/leerob.io?fbclid=IwAR0aKR4X9XUMJzyc0pApZNhSQ63b2LvjDJQ34NFsALT8ZWaguz1fkcbJAh4
+</h2>
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
           Most Popular
         </h3>
