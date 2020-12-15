@@ -12,7 +12,8 @@ export default function Home() {
           Toshihisa Handa　Website
         </h1>
         <h2 className="text-gray-600 dark:text-gray-400 mb-16">
-          vercelで個人サイト作ってみました。
+          vercelで個人サイトのサンプルをデプロイしてみました
+          参考元：https://github.com/leerob/leerob.io?fbclid=IwAR0aKR4X9XUMJzyc0pApZNhSQ63b2LvjDJQ34NFsALT8ZWaguz1fkcbJAh4
         </h2>
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
           Most Popular
