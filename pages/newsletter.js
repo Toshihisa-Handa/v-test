@@ -6,7 +6,7 @@ import NewsletterLink from '@/components/NewsletterLink';
 import { getAllFilesFrontMatter } from '@/lib/mdx';
 
 const url = 'https://leerob.io/newsletter';
-const title = 'Newsletter – Lee Robinson';
+const title = 'Newsletter – Toshi H';
 const description =
   'Thoughts on the software industry, programming, tech, videography, music, and my personal life.';
 

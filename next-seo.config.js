@@ -1,4 +1,4 @@
-const title = 'Lee Robinson – Developer, writer, creator.';
+const title = 'Toshi H Website';
 const description =
   'Front-end developer, JavaScript enthusiast, and course creator.';
 

@@ -11,7 +11,7 @@ import YouTube from '@/components/metrics/Youtube';
 import TopTracks from '@/components/TopTracks';
 
 const url = 'https://leerob.io/dashboard';
-const title = 'Dashboard – Lee Robinson';
+const title = 'Dashboard – Toshi H';
 const description =
   'My personal dashboard, built with Next.js API routes deployed as serverless functions.';
 

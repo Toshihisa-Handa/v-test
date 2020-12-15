@@ -5,7 +5,7 @@ import FunctionCard from '@/components/FunctionCard';
 import { getAllFilesFrontMatter } from '@/lib/mdx';
 
 const url = 'https://leerob.io/snippets';
-const title = 'Code Snippets – Lee Robinson';
+const title = 'Code Snippets – Toshi H';
 
 export default function Snippets({ snippets }) {
   return (
